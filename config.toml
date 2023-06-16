@@ -139,3 +139,16 @@ name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/viveksyngh/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about/"
+[[menu.main]]
+    name = "System Design"
+    weight = 3
+    url = "/system-design/"

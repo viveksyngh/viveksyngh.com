@@ -3,13 +3,16 @@ title = "Vivek Kumar Singh"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
+
 paginate = 20
 enableEmoji = true
+
+pygmentsstyle = "github-dark" 
+pygmentscodefences = true 
+pygmentscodefencesguesssyntax = true
+
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-
-[markup.highlight]
-style = "github-dark"
 
 [params]
 author = "Vivek Kumar Singh"
@@ -150,5 +153,5 @@ url = "https://www.linkedin.com/in/viveksyngh/"
     url = "/about/"
 [[menu.main]]
     name = "System Design"
-    weight = 3
+    weight = 1
     url = "/system-design/"

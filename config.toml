@@ -144,14 +144,18 @@ weight = 4
 url = "https://www.linkedin.com/in/viveksyngh/"
 
 [[menu.main]]
-    name = "Blog"
-    weight = 2
+    name = "Blogs"
+    weight = 3
     url  = "/posts/"
 [[menu.main]]
     name = "About"
-    weight = 3
+    weight = 4
     url = "/about/"
 [[menu.main]]
     name = "System Design"
-    weight = 1
+    weight = 2
     url = "/system-design/"
+[[menu.main]]
+    name = "Paper Notes"
+    weight = 1
+    url = "/paper-notes/"

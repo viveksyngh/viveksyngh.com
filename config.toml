@@ -159,3 +159,7 @@ url = "https://www.linkedin.com/in/viveksyngh/"
     name = "Paper Notes"
     weight = 1
     url = "/paper-notes/"
+[[menu.main]]
+    name = "Resources"
+    weight = 1
+    url = "/resources/"
